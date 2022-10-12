@@ -2,7 +2,7 @@
     <header class = "header" id = "header">
         <div class = "head-top">
             <div class = "site-name">
-                <span>GEEKPROBIN</span>
+                <span>Family House</span>
             </div>
             <div class = "site-nav">
                 <span id = "nav-btn">MENU <i class = "fas fa-bars"></i></span>
@@ -19,9 +19,16 @@
 </template>
 
 <script>
+	// import '.header.scss';
 
 	export default {
-		name: "index"
+		name: "index",
+        data() {
+			return {
+
+            }
+        }
+
 	}
 </script>
 
