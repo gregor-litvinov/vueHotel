@@ -11,7 +11,7 @@
 
         <div class = "head-bottom flex">
             <h2>NICE AND COMFORTABLE PLACE TO STAY</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto est quos veniam impedit numquam itaque voluptatum, dicta asperiores accusamus, eligendi neque ut incidunt, modi harum molestiae atque natus officia minima.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.  voluptatum, dicta asperiores accusamus, eligendi neque ut incidunt, modi harum molestiae atque natus officia minima.</p>
             <button type = "button" class = "head-btn">GET STARTED</button>
         </div>
     </header>
